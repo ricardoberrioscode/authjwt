@@ -1,0 +1,15 @@
+{
+ "files.exclude": {
+  "public": false,
+  "node_modules": false,
+  ".vscode": false,
+  "README.md": false,
+  "src\\app\\favicon.ico": false,
+  "package-lock.json": false,
+  "next.config.mjs": false,
+  "jsconfig.json": false,
+  ".gitignore": false,
+  ".eslintrc.json": false,
+  ".next": false
+ }
+}
